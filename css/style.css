@@ -1,0 +1,24 @@
+.warna-violet{
+    color: darkviolet;
+
+}
+
+.warna-aqua{
+    color: aqua;
+}
+
+.warna-kuning{
+    color: burlywood;
+}
+
+.foto{
+    width: 50px;
+    height: 40px;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+
+}
